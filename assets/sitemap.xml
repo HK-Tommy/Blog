@@ -8,8 +8,34 @@
 
 
 <url>
+  <loc>https://hk-tommy.github.io/Blog/</loc>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://hk-tommy.github.io/Blog/index.html</loc>
-  <lastmod>2025-01-27T12:07:34+00:00</lastmod>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hk-tommy.github.io/Blog/blog-post.html?post=2025012702</loc>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hk-tommy.github.io/Blog/blog-post.html?post=2025012701</loc>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hk-tommy.github.io/Blog/blog-list.html</loc>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hk-tommy.github.io/Blog/blog-post.html</loc>
+  <lastmod>2025-01-27T17:21:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
